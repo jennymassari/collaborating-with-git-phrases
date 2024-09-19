@@ -9,3 +9,5 @@ def farewell():
 
 def is_that_a_pull_request():
     print("Let's try out! :)")
+def second_try():
+    print("hey! hey!")
