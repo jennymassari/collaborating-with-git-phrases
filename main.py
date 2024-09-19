@@ -9,3 +9,6 @@ def farewell():
 
 def is_that_a_pull_request():
     print("Let's try out! :)")
+
+def trying_to_create_merge_conflict(): 
+    print("testing this works")
