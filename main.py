@@ -6,3 +6,6 @@ def chat():
 
 def farewell(): 
     print("Bye Bye Bye 👋🏾👋🏾👋🏾")
+
+def is_that_a_pull_request():
+    print("Let's try out! :)")
